@@ -10,8 +10,8 @@
   --accent: #FB7185;
   --font-display: 'Oswald', sans-serif;
   --font-body: 'Inter', sans-serif;
-  --border-radius: 1px;
-  --box-shadow: none;
+  --border-radius: 8px;
+  --box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
   --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
