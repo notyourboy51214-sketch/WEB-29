@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://28-garagedoor-vortech.netlify.app/sitemap.xml
